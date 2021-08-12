@@ -1,2 +1,1 @@
------payoneer-----
-kirilnberezebko@gmail.com
+
